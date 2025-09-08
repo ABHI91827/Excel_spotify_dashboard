@@ -12,4 +12,12 @@ Excel Spotify  Analysis project understand key aspects of an spotify views.
 -Top 10 Artist by views
 -Stram of tracks
 -Total tracks in spotify
--Dashboard Interaction-
+-Dashboard Interaction  <a href =https://github.com/ABHI91827/Excel_spotify_dashboard/blob/main/Screenshot%202025-09-08%20142036.png></a>
+ #Process
+ -verify the data for any missing valuea and anomalies, and sort out them
+ -Make sure the data is consistent and clean with respect to data type and values
+ -Created pivot tables based on given problems
+ -Combine all pivot tables and created Dashboard 
+ #DASHBOARD
+ <img width="1093" height="657" alt="Screenshot 2025-09-08 142036" src="https://github.com/user-attachments/assets/80acf2b1-868f-4b14-bc9a-3b985da0ec5e" />
+
